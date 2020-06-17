@@ -1,0 +1,166 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+
+html, body {
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    height: 100%;
+    width: 100%;
+    color: #000;
+    outline: none;
+    background-color: rgba(26, 26, 236, 0.911);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .main-page {
+    position: relative;
+    height: 80%;
+    width: 80%;
+
+ }
+
+ .main-title {
+    position: relative;
+    top: 0;
+    text-transform: uppercase;
+    font-size: 8em;
+    line-height: .8em;
+    letter-spacing: .0em;
+    text-align: center;
+    color: #000;
+    transition: 500ms;
+    padding: 10px;
+    cursor: pointer;
+ }
+
+ .box-counter {
+     position: absolute;
+     height: 300px;
+     min-width: 30%;
+     top: 60%;
+     left: 50%;
+     transform: translate( -50% , -50%);
+     border: 20px solid #000;
+     padding: 10px;
+ }
+
+ .number-counter {
+    padding: 10px;
+    margin-top: -20px;
+    font-size: 9em;
+    text-align: center;
+    transition: 500ms;
+ }
+
+ .button {
+    position: absolute;
+    width: 1em;
+    height: 1em;
+    border-radius: 1em;    
+    font-size: 4em;
+    font-weight: bold;
+    background-color: #000;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: 500ms;
+    cursor: pointer;
+ }
+
+ .button-subtraction {
+    position: absolute;
+    top: 75%;
+    left: 25%;
+    transform: translate( -50% , -50%);
+ }
+ .button-sum {
+    position: absolute;
+    top: 75%;
+    left: 75%;
+    transform: translate( -50% , -50%);
+ }
+
+ .button:hover {
+    background-color: #fff;
+    color: #000;
+ }
+
+.main-title:hover {
+    color: #fff;
+ }
+
+ .box-counter:hover {
+    border-color: #fff;
+ }
+::selection {
+   background: none;
+ } 
+ @media only screen and (max-width:1024px) and (min-width:510px) {
+   .main-page {
+      padding: 40px;
+   }
+   .main-title {
+      position: relative;
+      top: 10%;
+      text-transform: uppercase;
+      font-size: 8rem;
+      padding: 10px;
+      margin: auto;
+   }
+   .box-counter {
+      position: absolute;
+      height: 400px;
+      width: 50%;
+      top: 60%;
+      left: 50%;
+      transform: translate( -50% , -50%);
+      border: 30px solid #000;
+      padding: 10px;
+   }
+   .number-counter {
+      font-size: 12rem;
+   }
+   .button {
+      position: absolute;
+      width: 1em;
+      height: 1em;
+      border-radius: 1em;    
+      font-size: 6em;
+   }
+  
+}
+
+ @media only screen and (max-width:500px) {
+      .main-title {
+         position: relative;
+         top: 10%;
+         text-transform: uppercase;
+         font-size: 3.2rem;
+         padding: 10px;
+         margin: auto;
+      }
+      .box-counter {
+         position: absolute;
+         top: 50%;
+         height: 250px;
+         width: 80%;
+         border: 15px solid #000;
+         padding: 5px;
+         margin-top: 50px;
+         box-sizing: border-box;
+     }
+     .number-counter {
+      font-size: 6em;
+      }
+      .button {
+         font-size: 3em;
+      }
+
+}
