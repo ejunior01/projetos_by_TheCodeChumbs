@@ -22,7 +22,7 @@ Alterar a cor do Background conforme o click no botão.
 ### Status do Projeto: Concluído :heavy_check_mark:
 
 ------
-### :link: [Link de Acesso](https://ejunior01.github.io/Background_Color_Changer/)
+#### :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_background_Color_Changer/)
 ------
 
 ### :pencil: Licença
