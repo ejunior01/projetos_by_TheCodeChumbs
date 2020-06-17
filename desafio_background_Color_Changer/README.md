@@ -26,5 +26,5 @@ Alterar a cor do Background conforme o click no botão.
 <p align="center">
 	Copyright (c) 2020 Edvan Ribeiro
     <br/>
-    Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/ejunior01/Background_Color_Changer/blob/master/LICENSE">LICENSE</a> para mais detalhes.
+    Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/ejunior01/projetos_by_TheCodeChumbs/blob/master/LICENSE">LICENSE</a> para mais detalhes.
 </p>
