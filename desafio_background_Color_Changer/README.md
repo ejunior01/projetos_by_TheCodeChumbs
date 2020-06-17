@@ -1,11 +1,7 @@
 <h1 align = "center" >
 &#128307  Background Color Changer
 </h1>
-<p align="center">
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/ejunior01/Background_Color_Changer">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ejunior01/Background_Color_Changer">
-<img  alt="licença" src="https://img.shields.io/github/license/ejunior01/Background_Color_Changer" />
-<p/>
+
 <h3 align ="center"> Desafio proposto através do perfil <a href="https://www.instagram.com/p/B-Zh8fmAAMA/?igshid=17f7wwaulw52l" target="_blanck"> TheCodeChumbs </a> no Instagram </h3>
 
 ------
