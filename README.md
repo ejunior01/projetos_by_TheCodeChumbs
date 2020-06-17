@@ -10,23 +10,23 @@
 
 ---
 
-## :books: INTRODUÇÃO
+## INTRODUÇÃO
 
 Repositório dos desafios proposto através do perfil @TheCodeChumbs no Instagram
 
-## :books: LISTA DE DESAFIOS REALIZADOS
+## LISTA DE DESAFIOS REALIZADOS
 
 
 ### :white_square_button: [Background_Color_Changer](https://github.com/ejunior01/projetos_by_TheCodeChumbs/tree/master/desafio_background_Color_Changer)
 
-**:memo: Desafio**: Alterar a cor do Background conforme o click no botão.
+**Desafio**: Alterar a cor do Background conforme o click no botão.
 
 #### :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_background_Color_Changer/)
 ---
 
 ### :1234: [Counter](https://github.com/ejunior01/projetos_by_TheCodeChumbs/tree/master/desafio_counter)
 
-**:memo: Desafio**: Alterar o contador de acordo com o click no botão de adição ou subtração.
+**Desafio**: Alterar o contador de acordo com o click no botão de adição ou subtração.
 
 #### :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_counter/)
 ---
@@ -34,12 +34,12 @@ Repositório dos desafios proposto através do perfil @TheCodeChumbs no Instagra
 
 ### :capital_abcd: [Letter_Counter](https://github.com/ejunior01/projetos_by_TheCodeChumbs/tree/master/desafio_letter_Counter)
 
-**:memo: Desafio**: Realizar a contagem dos caracteres conforme o usuário realiza a digitação na caixa de texto.
+**Desafio**: Realizar a contagem dos caracteres conforme o usuário realiza a digitação na caixa de texto.
 
 #### :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_letter_Counter/)
 ---
 
-## :books: LISTA DE DESAFIOS A FAZER
+## LISTA DE DESAFIOS A FAZER
 
 - [ ] :page_with_curl: ToDo List
 - [ ] :clock1: Analog Clock
