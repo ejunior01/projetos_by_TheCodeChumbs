@@ -19,18 +19,14 @@ Repositório dos desafios proposto através do perfil @TheCodeChumbs no Instagra
 
 ### :white_square_button: [Background_Color_Changer](https://github.com/ejunior01/projetos_by_TheCodeChumbs/tree/master/desafio_background_Color_Changer)
 
-*:memo: Descrição do desafio*
-
-Alterar a cor do Background conforme o click no botão.
+**:memo: Desafio**: Alterar a cor do Background conforme o click no botão.
 
 #### :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_background_Color_Changer/)
 ---
 
 ### :1234: [Counter](https://github.com/ejunior01/projetos_by_TheCodeChumbs/tree/master/desafio_counter)
 
-*:memo: Descrição do desafio*
-
-Alterar o contador de acordo com o click no botão de adição ou subtração.
+**:memo: Desafio**: Alterar o contador de acordo com o click no botão de adição ou subtração.
 
 #### :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_counter/)
 ---
@@ -38,9 +34,7 @@ Alterar o contador de acordo com o click no botão de adição ou subtração.
 
 ### :capital_abcd: [Letter_Counter](https://github.com/ejunior01/projetos_by_TheCodeChumbs/tree/master/desafio_letter_Counter)
 
-*:memo: Descrição do Projeto*
-
-Realizar a contagem dos caracteres conforme o usuário realiza a digitação na caixa de texto.
+**:memo: Desafio**: Realizar a contagem dos caracteres conforme o usuário realiza a digitação na caixa de texto.
 
 #### :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_letter_Counter/)
 ---
