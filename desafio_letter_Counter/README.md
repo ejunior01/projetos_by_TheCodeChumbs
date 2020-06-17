@@ -1,11 +1,6 @@
 <h1 align = "center" >
 &#128288  Letter counter
 </h1>
-<p align="center">
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/ejunior01/Letter_Counter">
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ejunior01/Letter_Counter">
-<img  alt="licença" src="https://img.shields.io/github/license/ejunior01/Letter_Counter" />
-<p/>
 
 <h3 align ="center"> Desafio proposto através do perfil <a href="https://www.instagram.com/p/B-Zh8fmAAMA/?igshid=17f7wwaulw52l" target="_blank">  TheCodeChumbs </a> no Instagram </h3>
 
@@ -39,7 +34,7 @@ Fazer com que a partir de "X" quantidade de caracteres a Cor do Background seja 
 ### Status do Projeto: Concluído :heavy_check_mark:
 ------
 
-### :link: [Link de acesso](https://ejunior01.github.io/Letter_Counter/)
+#### :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_letter_Counter/)
 ------
 
 ### :pencil: Licença
