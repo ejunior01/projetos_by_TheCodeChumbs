@@ -15,10 +15,7 @@
 
 Repositório dos desafios proposto através do perfil @TheCodeChumbs no Instagram
 
----
-
 ## :books: LISTA DE DESAFIOS REALIZADOS
----
 
 
 ### [Background_Color_Changer](https://github.com/ejunior01/projetos_by_TheCodeChumbs/tree/master/desafio_background_Color_Changer)
