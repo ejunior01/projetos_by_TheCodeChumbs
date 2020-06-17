@@ -3,7 +3,6 @@
     <img width="200px" height="250px" alt="Logo Casa Criativa" src="./img/bg.png" />
  </a>
 <p align="center">
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/ejunior01/projetos_by_TheCodeChumbs">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ejunior01/projetos_by_TheCodeChumbs">
 <img  alt="licença" src="https://img.shields.io/github/license/ejunior01/projetos_by_TheCodeChumbs" />
 <img alt="Made by Junior Santos" src="https://img.shields.io/badge/made%20by-Junior Santos-%237519C1">
