@@ -9,12 +9,17 @@
 <img alt="Made by Junior Santos" src="https://img.shields.io/badge/made%20by-Junior Santos-%237519C1">
 <p/>
 
-## :rocket: INTRODUÇÃO
+---
+
+## :books: INTRODUÇÃO
 
 Repositório dos desafios proposto através do perfil @TheCodeChumbs no Instagram
 
+---
 
-## :rocket: LISTA DE DESAFIOS REALIZADOS
+## :books: LISTA DE DESAFIOS REALIZADOS
+---
+
 
 ### [Background_Color_Changer](https://github.com/ejunior01/projetos_by_TheCodeChumbs/tree/master/desafio_background_Color_Changer)
 
