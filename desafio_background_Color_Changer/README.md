@@ -13,7 +13,7 @@ Alterar a cor do Background conforme o click no botão.
 
 ### :computer: Layout
 
-<img src="https://github.com/ejunior01/Background_Color_Changer/blob/master/design/layout.png?raw=true">
+<img src="https://github.com/ejunior01/projetos_by_TheCodeChumbs/blob/master/desafio_background_Color_Changer/design/layout.png?raw=true">
 
 ### Status do Projeto: Concluído :heavy_check_mark:
 
