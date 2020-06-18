@@ -11,7 +11,7 @@ Alterar o contador de acordo com o click no botão de adição ou subtração.
 ------
 ### :computer: Layout
 
-<img src="https://github.com/ejunior01/Counter/blob/master/design/layout.png?raw=true">
+<img src="https://github.com/ejunior01/projetos_by_TheCodeChumbs/blob/master/desafio_counter/design/layout.png?raw=true">
 
 ### Status do Projeto: Concluído :heavy_check_mark:
 ------
