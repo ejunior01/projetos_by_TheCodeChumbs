@@ -21,14 +21,16 @@ Repositório dos desafios proposto através do perfil @TheCodeChumbs no Instagra
 
 **Desafio**: Alterar a cor do Background conforme o click no botão.
 
-#### :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_background_Color_Changer/)
+:computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_background_Color_Changer/)
+
 ---
 
 ### :1234: [Counter](https://github.com/ejunior01/projetos_by_TheCodeChumbs/tree/master/desafio_counter)
 
 **Desafio**: Alterar o contador de acordo com o click no botão de adição ou subtração.
 
-#### :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_counter/)
+:computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_counter/)
+
 ---
 
 
@@ -36,7 +38,8 @@ Repositório dos desafios proposto através do perfil @TheCodeChumbs no Instagra
 
 **Desafio**: Realizar a contagem dos caracteres conforme o usuário realiza a digitação na caixa de texto.
 
-#### :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_letter_Counter/)
+ :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_letter_Counter/)
+ 
 ---
 
 ## LISTA DE DESAFIOS A FAZER
