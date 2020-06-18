@@ -1,0 +1,244 @@
+/* :root {
+    --bg-color: whitesmoke;
+    --card-color: #EDD926;
+    --arrow-color: #FFEC42;
+} */
+:root {
+    --bg-color: #1a1a1a;
+    --card-color: #fff;
+    --arrow-color: #000;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100vh;
+}
+
+body {
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    font-family: 'Poppins', sans-serif;
+    background-color:var(--bg-color);
+}
+
+h1 {
+    font-weight: 600;
+}
+
+h2 {
+    margin-bottom: 15px;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 48px;
+}
+
+p { 
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+ 
+header {
+    height: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header nav {
+    width: 15%;
+}
+
+header nav ul{
+    display: flex;
+    justify-content: space-around;
+}
+
+header nav ul li{
+    margin-top: 40px;
+    display: inline-block
+}
+
+header nav ul li a img {
+    width: 30px;
+    height: 30px;
+}
+
+
+.container {
+    width: 90%;
+    margin: 50px auto 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cards {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.card {
+    position: relative;
+    height: 450px;
+    width: 810px;       
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.card .card-container {
+    width: 500px;
+    height: 95%;
+    padding: 15px 15px 15px 90px;   
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    background-color:var(--card-color);
+}
+
+.info {
+    height: 300px;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.technology {
+    align-self: flex-start;
+}
+
+.technology img {
+    width: 40px;
+    height: 40px
+}
+
+.view-stage{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.access {
+    width: 90px;
+    height: 40px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+}
+
+.access a {
+    color: #fff;
+    font-weight: bold;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.view-stage .stage {
+    width: 100px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.view-stage .stage li{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    list-style-type: none;
+    background-color:#000;
+}
+
+.stage li:hover {
+    background-color: yellow;
+}
+
+
+.card .card-view-project {
+    position: absolute;
+    left: 10px;
+    width: 350px;
+    height: 70%;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 98;
+}
+
+/* .card::after,
+.card::before{
+    content: "";
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background: var(--arrow-color) url("../img/proximo.svg");
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+
+.card::after {
+    position: absolute;
+    top: 43%;
+    left: 315px;
+    z-index: 99;
+}
+
+.card::before {
+    position: absolute;
+    top: 43%;
+    left: -20px;
+    z-index: 99;
+    transform: rotate(180deg);
+} */
+
+.view-project {
+    width: 100%;
+    height: 100%;
+    border: 4px solid #000;
+    border-radius: 8px;
+    background-color: #fff;
+    animation: 3s chage-color infinite linear;
+}
+
+@keyframes chage-color {
+    0% {
+        background-color: red;
+    }
+    20% {
+        background-color: #9C2CFF;
+    }
+    40% {
+        background-color: #B38D52;
+    }
+    60% {
+        background-color: #36E8FF;
+    }
+    80% {
+        background-color: #FF6969;
+    }
+    100% {
+        background-color: #24C739;
+    } 
+}
