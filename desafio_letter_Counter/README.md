@@ -28,7 +28,7 @@ Fazer com que a partir de "X" quantidade de caracteres a Cor do Background seja 
 
 ### :computer: Layout
 
-<img src="https://github.com/ejunior01/Letter_Counter/blob/master/design/layout.png?raw=true">
+<img src="https://github.com/ejunior01/projetos_by_TheCodeChumbs/blob/master/desafio_letter_Counter/design/layout.png?raw=true">
 
 
 ### Status do Projeto: Concluído :heavy_check_mark:
