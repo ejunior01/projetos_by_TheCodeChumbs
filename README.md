@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.instagram.com/p/B-Zh8fmAAMA/?igshid=17f7wwaulw52l">
-    <img width="200px" height="250px" alt="Logo Casa Criativa" src="./img/bg.png" />
+    <img width="200px" height="250px" src="./img/bg.png" />
  </a>
 <p align="center">
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ejunior01/projetos_by_TheCodeChumbs">
