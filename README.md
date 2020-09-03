@@ -44,6 +44,9 @@ Repositório dos desafios proposto através do perfil @TheCodeChumbs no Instagra
 
 ## LISTA DE DESAFIOS A FAZER
 
+- [x] :capital_abcd: Letter_Counter
+- [x] :1234: Counter
+- [x] :white_square_button: Background_Color_Changer
 - [ ] :page_with_curl: ToDo List
 - [ ] :clock1: Analog Clock
 - [ ] :black_square_button: Image Slider
