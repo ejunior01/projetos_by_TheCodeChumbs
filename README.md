@@ -43,9 +43,9 @@ Repositório dos desafios proposto através do perfil @TheCodeChumbs no Instagra
 ---
 
 
-### :capital_abcd: [ToDo_List](https://github.com/ejunior01/projetos_by_TheCodeChumbs/tree/master/desafio_todo_List)
+### :page_with_curl: [ToDo_List](https://github.com/ejunior01/projetos_by_TheCodeChumbs/tree/master/desafio_todo_List)
 
-**Desafio**: Realiza a criação de um ToDo list, onde o usuário vai pode criar e deletar os ToDo..
+**Desafio**: Realiza a criação de um ToDo list, onde o usuário vai pode criar e deletar os ToDo.
 
  :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_todo_List/)
 
