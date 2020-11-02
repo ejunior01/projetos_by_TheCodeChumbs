@@ -72,6 +72,7 @@ section.createToDo {
   border-right: 0;
   font-weight: bold;
   background-color: #fff;
+  overflow: hidden;
 }
 
 input[type="text"] {

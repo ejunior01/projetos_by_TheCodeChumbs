@@ -5,12 +5,12 @@ const valueToDo = document.querySelector(".createToDo input");
 function createElement() {
   let containerToDo = document.createElement("div");
   containerToDo.classList.add("todo");
-  containerToDo.innerHTML = `<p class="style-todo"></p><span class="button remove" onClick='removeTodo(event)'>REMOVE</span>`;
+  containerToDo.innerHTML = `<div class="style-todo" contenteditable="true"></div><span class="button remove" onClick='removeTodo(event)'>REMOVE</span>`;
   return containerToDo;
 }
 
 function addElement(todo) {
-  todo.querySelector("p").innerText = valueToDo.value;
+  todo.querySelector("div").innerText = valueToDo.value;
   listToDo.appendChild(todo);
 }
 
