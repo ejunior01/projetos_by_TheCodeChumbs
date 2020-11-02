@@ -39,7 +39,16 @@ Repositório dos desafios proposto através do perfil @TheCodeChumbs no Instagra
 **Desafio**: Realizar a contagem dos caracteres conforme o usuário realiza a digitação na caixa de texto.
 
  :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_letter_Counter/)
- 
+
+---
+
+
+### :capital_abcd: [ToDo_List](https://github.com/ejunior01/projetos_by_TheCodeChumbs/tree/master/desafio_todo_List)
+
+**Desafio**: Realiza a criação de um ToDo list, onde o usuário vai pode criar e deletar os ToDo..
+
+ :computer: [Preview](https://ejunior01.github.io/projetos_by_TheCodeChumbs/desafio_todo_List/)
+
 ---
 
 ## LISTA DE DESAFIOS A FAZER
@@ -47,7 +56,7 @@ Repositório dos desafios proposto através do perfil @TheCodeChumbs no Instagra
 - [x] :capital_abcd: Letter_Counter
 - [x] :1234: Counter
 - [x] :white_square_button: Background_Color_Changer
-- [ ] :page_with_curl: ToDo List
+- [x] :page_with_curl: ToDo List
 - [ ] :clock1: Analog Clock
 - [ ] :black_square_button: Image Slider
 - [ ] :heavy_plus_sign:	Calculator
